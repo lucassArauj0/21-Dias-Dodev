@@ -1,0 +1,1 @@
+console.log('No dia 2, eu aprendi sobre GIT.')
